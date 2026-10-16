@@ -1,0 +1,9 @@
+# my-prompt-polisher
+
+一个 DSH Skill，把粗糙的一句话需求改写为结构化提示词。
+
+## 安装
+把 `my-prompt-polisher` 文件夹放到 `~/.dsh/skills/` 目录下即可。
+
+## 使用
+在 DSH 中说“帮我优化这段提示词：…”即可触发。
